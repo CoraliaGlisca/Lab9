@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515533123 source:c:\users\cora\desktop\lab9\i6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
